@@ -1,0 +1,26 @@
+# ninja log v5
+1	1495	6924676469758739	untitled_autogen/timestamp	e96b62bc1647e84e
+1	1495	6924676469758739	untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+1	1495	6924676469758739	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	e96b62bc1647e84e
+1	1495	6924676469758739	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+33	352	6924677256142194	untitled_autogen/timestamp	e96b62bc1647e84e
+33	352	6924677256142194	untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+33	352	6924677256142194	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	e96b62bc1647e84e
+33	352	6924677256142194	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+358	2544	6924677278060618	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	8d221a359ba84f4c
+361	2733	6924677279941045	CMakeFiles/untitled.dir/main.cpp.obj	3e8dac90aae626d7
+363	2867	6924677281281341	CMakeFiles/untitled.dir/mainwindow.cpp.obj	57f34f5cfa619ecc
+2867	4115	6924677293724146	untitled.exe	7a30d496dec9a181
+6	326	6924678289634277	untitled_autogen/timestamp	e96b62bc1647e84e
+6	326	6924678289634277	untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+6	326	6924678289634277	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	e96b62bc1647e84e
+6	326	6924678289634277	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+331	2663	6924678313011271	CMakeFiles/untitled.dir/mainwindow.cpp.obj	57f34f5cfa619ecc
+2663	2921	6924678315561849	untitled.exe	7a30d496dec9a181
+11	280	6924680348987452	untitled_autogen/timestamp	e96b62bc1647e84e
+11	280	6924680348987452	untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+11	280	6924680348987452	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/timestamp	e96b62bc1647e84e
+11	280	6924680348987452	E:/Coding/build-untitled-Desktop_Qt_6_4_1_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	e96b62bc1647e84e
+285	2434	6924680370522300	CMakeFiles/untitled.dir/main.cpp.obj	3e8dac90aae626d7
+288	2671	6924680372882838	CMakeFiles/untitled.dir/mainwindow.cpp.obj	57f34f5cfa619ecc
+2671	3407	6924680380209925	untitled.exe	7a30d496dec9a181

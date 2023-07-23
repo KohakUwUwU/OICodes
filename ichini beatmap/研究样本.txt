@@ -1,0 +1,234 @@
+{
+	"TEST_Uncoding": {
+		"__type": "Save,Assembly-CSharp",
+		"value": {
+			"version": "0.2",
+			"projectName": "test",
+			"saveLocation": "C:\/Users\/Administrator.Bili3-2021JJAIS\/Documents\/Tencent Files\/2803355799\/FileRecv\/ichni Editor0.2 99.9%完整版\/ichni Editor0.2 99.9%完整版\/Project ichni_Data\/StreamingAssets\/BeatMaps\/test.tbm",
+			"BPM": 200,
+			"offset": 0,
+			"songLocation": "C:\\Users\\Administrator.Bili3-2021JJAIS\\Desktop\\LinkS - Dust corner.ogg",
+			"hardMode": 0,
+			"level": "15",
+			"noteCount": 2,
+			"trackGroupSaves": [{
+				"name": "TrackGroup 0",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": "Main Game Camera",
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 60,
+					"isSave": true,
+					"swirlSaves": [{
+						"animSwirlName": "Swirl 0",
+						"objectToSwirl": {
+							"_ES3Ref": "7163852468007912509"
+						},
+						"swirlCurve": 0,
+						"startTime": 0,
+						"endTime": 0,
+						"totalTime": 0,
+						"startEularX": 0,
+						"startEularY": 0,
+						"startEularZ": 0,
+						"endEularX": 0,
+						"endEularY": 0,
+						"endEularZ": 0
+					}]
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "test1",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "test track1",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}, {
+					"name": "test track2",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 3,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [{
+					"name": "Note 0",
+					"judgeTime": 0,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 1",
+					"judgeTime": 0,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.9,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "TrackGroup 2",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": "Game Camera",
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 60,
+					"isSave": true,
+					"swirlSaves": []
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.9,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}]
+		}
+	}
+}

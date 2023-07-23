@@ -1,0 +1,170 @@
+{
+	"TEST_Uncoding": 
+    {
+		"__type":"Save,Assembly-CSharp",
+		"value": 
+        {
+			"version":"0.2",
+			"projectName":"",
+			"saveLocation":"",
+			"BPM":,
+			"offset":0,
+			"songLocation":"",
+			"hardMode":0,
+			"level":"",
+			"noteCount":,
+			"trackGroupSaves":
+            [
+                {
+			    	"name":"TrackGroup 0",
+			    	"colorR":1,
+			    	"colorG":1,
+			    	"colorB":1,
+			    	"gameCameraSave":
+                    {
+			    		"name":"Main Game Camera",
+			    		"cameraViewType":0,
+			    		"fieldOfViewAngle": 0,
+			    		"isSave":true,
+			    		"swirlSaves":[]
+				    },
+				    "trackSaves":[],
+		    		"noteSaves":[],
+		       		"trackHeadType":0,
+			    	"movableLineTimeLength":0,
+		    		"lineScale":
+                    {
+		    			"x": 0,
+		    			"y": 0,
+		    			"z": 0
+		    		},
+		    		"finalStartTime":0,
+		    		"finalEndTime":0,
+		    		"sacleSaves":[]
+		        },
+                {
+				"name":"",
+				"colorR":,
+				"colorG":,
+				"colorB":,
+				"gameCameraSave":
+                {
+					"name":null,
+					"cameraViewType":0,
+					"fieldOfViewAngle":0,
+					"isSave":false,
+					"swirlSaves":null
+				},
+				"trackSaves":
+                [
+                    {
+				    	"name": "test track1",
+				    	"startTime": 0,
+				    	"endTime": 0,
+				    	"totalTime": 0,
+				    	"trackCurve": 0,
+				    	"spaceCurveType": 0,
+				    	"pathNodeSaves":
+                        [
+                            {
+				    		    "name": "PathNode 0",
+				    	    	"position": {
+				    	    		"x": 0,
+				    	    		"y": 0,
+				    	    		"z": 0
+				    	    	},
+				    	    	"normal": {
+				    	    		"x": 0,
+				    	    		"y": 1,
+				    	    		"z": 0
+				    	    	}
+					        }
+                        ],
+                        "noteSaves":
+                        [
+                            {
+                                "name": "Note 0",
+                                "judgeTime": 0,
+                                "xPosition": 0,
+                                "noteTpye": 1,
+                                "dimension": 1,
+                                "movementSaves": [],
+                                "scaleSaves": []
+                            }
+                        ],
+                    "trackHeadType": 0,
+                    "movableLineTimeLength": 0.9,
+                    "lineScale": {
+                        "x": 0,
+                        "y": 0,
+                        "z": 0
+                    },
+                    "finalStartTime": 0,
+                    "finalEndTime": 0,
+                    "sacleSaves": []
+			    }, {
+				"name": "TrackGroup 2",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": "Game Camera",
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 60,
+					"isSave": true,
+					"swirlSaves": []
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 0,
+							"y": 0,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.9,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}]
+		}
+	}
+}

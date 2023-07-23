@@ -1,0 +1,16 @@
+﻿  CityBridgeGenerator.cpp
+D:\文档\编程\VSproject\CityBridgeGenerator\header\StdConstDefine.h(2,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\StdConstDefine.h(3,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(17,20): warning C4244: “return”: 从“const double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(93,74): warning C4244: “return”: 从“const double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(217,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(218,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(218,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(219,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(219,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(225,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(226,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(227,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(228,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\文档\编程\VSproject\CityBridgeGenerator\header\FunctionDefine.h(307): warning C4715: “Process”: 不是所有的控件路径都返回值
+  CityBridgeGenerator.vcxproj -> D:\文档\编程\VSproject\CityBridgeGenerator\x64\Debug\CityBridgeGenerator.exe

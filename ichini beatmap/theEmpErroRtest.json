@@ -1,0 +1,6430 @@
+{
+	"TEST_Uncoding": {
+		"__type": "Save,Assembly-CSharp",
+		"value": {
+			"version": "0.2",
+			"projectName": "the EmpErroR",
+			"saveLocation": "C:\/Users\/Administrator.Bili3-2021JJAIS\/Documents\/Tencent Files\/2803355799\/FileRecv\/ichni Editor0.2 99.9%完整版\/ichni Editor0.2 99.9%完整版\/Project ichni_Data\/StreamingAssets\/BeatMaps\/the EmpErroR.tbm",
+			"BPM": 240,
+			"offset": 0,
+			"songLocation": "C:\\Users\\Administrator.Bili3-2021JJAIS\\Desktop\\5s EMP.ogg",
+			"hardMode": 0,
+			"level": "15",
+			"noteCount": 159,
+			"trackGroupSaves": [{
+				"name": "TrackGroup 0",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": "Main Game Camera",
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 60,
+					"isSave": true,
+					"swirlSaves": [{
+						"animSwirlName": "Swirl 0",
+						"objectToSwirl": {
+							"_ES3Ref": "1029094371787190105"
+						},
+						"swirlCurve": 0,
+						"startTime": 0,
+						"endTime": 13.7,
+						"totalTime": 13.7,
+						"startEularX": 30,
+						"startEularY": 0,
+						"startEularZ": 0,
+						"endEularX": 30,
+						"endEularY": 0,
+						"endEularZ": 0
+					}]
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 21.7,
+					"totalTime": 21.7,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 0,
+							"y": 3,
+							"z": -148.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 0,
+							"y": 3,
+							"z": 394
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1A",
+				"colorR": 1,
+				"colorG": 0.7137255,
+				"colorB": 0.7568628,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [{
+					"name": "Note 0",
+					"judgeTime": 5.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 1",
+					"judgeTime": 5.7625,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 2",
+					"judgeTime": 5.825,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 3",
+					"judgeTime": 5.8875,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 4",
+					"judgeTime": 5.95,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 5",
+					"judgeTime": 6.0125,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 6",
+					"judgeTime": 6.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 7",
+					"judgeTime": 6.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 8",
+					"judgeTime": 6.5125,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 9",
+					"judgeTime": 6.575,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 10",
+					"judgeTime": 6.6375,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 11",
+					"judgeTime": 6.7,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 12",
+					"judgeTime": 6.7625,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 13",
+					"judgeTime": 6.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 14",
+					"judgeTime": 7.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 15",
+					"judgeTime": 7.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 16",
+					"judgeTime": 7.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 17",
+					"judgeTime": 8.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 18",
+					"judgeTime": 8.3875,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 19",
+					"judgeTime": 8.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 20",
+					"judgeTime": 8.6375,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 21",
+					"judgeTime": 8.7,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 22",
+					"judgeTime": 8.7625,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 23",
+					"judgeTime": 8.825,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 24",
+					"judgeTime": 8.8875,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 25",
+					"judgeTime": 8.95,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 26",
+					"judgeTime": 9.0125,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 27",
+					"judgeTime": 9.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 28",
+					"judgeTime": 9.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 29",
+					"judgeTime": 9.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 30",
+					"judgeTime": 10.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 31",
+					"judgeTime": 10.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 32",
+					"judgeTime": 10.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 33",
+					"judgeTime": 11.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 34",
+					"judgeTime": 11.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 35",
+					"judgeTime": 11.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 36",
+					"judgeTime": 11.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 37",
+					"judgeTime": 11.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 38",
+					"judgeTime": 12.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 39",
+					"judgeTime": 12.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 40",
+					"judgeTime": 12.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 41",
+					"judgeTime": 12.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 42",
+					"judgeTime": 12.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 43",
+					"judgeTime": 12.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 44",
+					"judgeTime": 12.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 45",
+					"judgeTime": 13.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 46",
+					"judgeTime": 13.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 47",
+					"judgeTime": 13.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 48",
+					"judgeTime": 13.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 49",
+					"judgeTime": 13.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1B",
+				"colorR": 1,
+				"colorG": 0.7137255,
+				"colorB": 0.7568628,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [{
+					"name": "Note 0",
+					"judgeTime": 5.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 1",
+					"judgeTime": 6.0125,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 2",
+					"judgeTime": 6.075,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 3",
+					"judgeTime": 6.1375,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 4",
+					"judgeTime": 6.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 5",
+					"judgeTime": 6.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 6",
+					"judgeTime": 6.6375,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 7",
+					"judgeTime": 6.7,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 8",
+					"judgeTime": 6.7625,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 9",
+					"judgeTime": 6.825,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 10",
+					"judgeTime": 6.8875,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 11",
+					"judgeTime": 7.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 12",
+					"judgeTime": 7.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 13",
+					"judgeTime": 8.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 14",
+					"judgeTime": 8.2625,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 15",
+					"judgeTime": 8.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 16",
+					"judgeTime": 8.5125,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 17",
+					"judgeTime": 8.575,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 18",
+					"judgeTime": 8.6375,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 19",
+					"judgeTime": 8.7,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 20",
+					"judgeTime": 8.7625,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 21",
+					"judgeTime": 8.825,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 22",
+					"judgeTime": 8.8875,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 23",
+					"judgeTime": 8.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 24",
+					"judgeTime": 9.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 25",
+					"judgeTime": 9.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 26",
+					"judgeTime": 9.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 27",
+					"judgeTime": 10.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 28",
+					"judgeTime": 10.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 29",
+					"judgeTime": 10.5125,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 30",
+					"judgeTime": 10.575,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 31",
+					"judgeTime": 10.6375,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 32",
+					"judgeTime": 10.7,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 33",
+					"judgeTime": 10.7625,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 34",
+					"judgeTime": 10.825,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 35",
+					"judgeTime": 10.8875,
+					"xPosition": 0,
+					"noteTpye": 2,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 36",
+					"judgeTime": 11.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 37",
+					"judgeTime": 11.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 38",
+					"judgeTime": 11.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 39",
+					"judgeTime": 11.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 40",
+					"judgeTime": 11.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 41",
+					"judgeTime": 12.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 42",
+					"judgeTime": 12.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 43",
+					"judgeTime": 12.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 44",
+					"judgeTime": 12.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 45",
+					"judgeTime": 12.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 46",
+					"judgeTime": 12.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 47",
+					"judgeTime": 12.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 48",
+					"judgeTime": 13.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 49",
+					"judgeTime": 13.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 50",
+					"judgeTime": 13.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 51",
+					"judgeTime": 13.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 52",
+					"judgeTime": 13.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Curve 1",
+				"colorR": 0,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 3.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 2",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 6.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 3",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 9.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 4",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 12.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 5",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 15.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 6",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 18.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 7",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 21.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 8",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 9",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 28.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 10",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 31.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 11",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 34.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 12",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 37.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 13",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 40.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 14",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 43.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 15",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 46.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 16",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 50
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 17",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 53.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 18",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 56.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 19",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 59.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 20",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 62.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 21",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 65.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 22",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 68.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 23",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 71.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 24",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 25",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 78.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 26",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 81.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 27",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 84.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 28",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 87.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 29",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 90.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 30",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 93.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 31",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 96.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 32",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 100
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 33",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 103.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 34",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 106.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 35",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 109.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 36",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 112.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 37",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 115.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 38",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 118.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 39",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 121.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 40",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 41",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 128.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 42",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 131.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 43",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 134.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 44",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 137.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 45",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 140.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 46",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 143.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 47",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 146.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 48",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 150
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 49",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 153.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 50",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 156.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 51",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 159.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 52",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 162.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 53",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 165.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 54",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 168.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 55",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 171.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 56",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 175
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 57",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 178.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 58",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 181.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 59",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 184.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 60",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 187.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 61",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 190.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 62",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 193.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 63",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 196.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 64",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Curve 2",
+				"colorR": 0.4980392,
+				"colorG": 1,
+				"colorB": 0.6666667,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 3.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 2",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 6.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 3",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 9.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 4",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 12.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 5",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 15.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 6",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 18.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 7",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 21.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 8",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 9",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 28.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 10",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 31.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 11",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 34.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 12",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 37.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 13",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 40.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 14",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 43.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 15",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 46.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 16",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 50
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 17",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 53.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 18",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 56.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 19",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 59.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 20",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 62.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 21",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 65.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 22",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 68.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 23",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 71.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 24",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 25",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 78.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 26",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 81.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 27",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 84.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 28",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 87.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 29",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 90.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 30",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 93.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 31",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 96.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 32",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 100
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 33",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 103.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 34",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 106.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 35",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 109.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 36",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 112.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 37",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 115.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 38",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 118.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 39",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 121.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 40",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 41",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 128.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 42",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 131.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 43",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 134.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 44",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 137.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 45",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 140.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 46",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 143.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 47",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 146.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 48",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 150
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 49",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 153.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 50",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 156.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 51",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 159.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 52",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 162.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 53",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 165.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 54",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 168.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 55",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 171.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 56",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 175
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 57",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 178.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 58",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 181.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 59",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 184.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 60",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 187.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 61",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 190.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 62",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 193.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 63",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 196.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 64",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Curve 3",
+				"colorR": 1,
+				"colorG": 0.972549,
+				"colorB": 0.8627451,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 3.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 2",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 6.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 3",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 9.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 4",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 12.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 5",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 15.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 6",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 18.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 7",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 21.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 8",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 9",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 28.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 10",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 31.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 11",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 34.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 12",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 37.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 13",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 40.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 14",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 43.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 15",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 46.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 16",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 50
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 17",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 53.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 18",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 56.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 19",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 59.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 20",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 62.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 21",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 65.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 22",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 68.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 23",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 71.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 24",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 25",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 78.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 26",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 81.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 27",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 84.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 28",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 87.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 29",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 90.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 30",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 93.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 31",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 96.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 32",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 100
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 33",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 103.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 34",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 106.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 35",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 109.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 36",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 112.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 37",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 115.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 38",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 118.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 39",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 121.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 40",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 41",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 128.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 42",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 131.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 43",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 134.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 44",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 137.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 45",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 140.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 46",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 143.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 47",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 146.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 48",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 150
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 49",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 153.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 50",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 156.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 51",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 159.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 52",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 162.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 53",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 165.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 54",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 168.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 55",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 171.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 56",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 175
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 57",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 178.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 58",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 181.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 59",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 184.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 60",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 187.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 61",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 190.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 62",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 193.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 63",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 196.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 64",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Curve 4",
+				"colorR": 0.9803922,
+				"colorG": 0.5019608,
+				"colorB": 0.5019608,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 3.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 2",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 6.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 3",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 9.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 4",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 12.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 5",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 15.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 6",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 18.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 7",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 21.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 8",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 9",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 28.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 10",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 31.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 11",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 34.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 12",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 37.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 13",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 40.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 14",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 43.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 15",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 46.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 16",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 50
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 17",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 53.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 18",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 56.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 19",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 59.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 20",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 62.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 21",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 65.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 22",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 68.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 23",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 71.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 24",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 25",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 78.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 26",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 81.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 27",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 84.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 28",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 87.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 29",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 90.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 30",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 93.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 31",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 96.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 32",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 100
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 33",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 103.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 34",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 106.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 35",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 109.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 36",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 112.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 37",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 115.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 38",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 118.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 39",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 121.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 40",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 41",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 128.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 42",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 131.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 43",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 134.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 44",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 137.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 45",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 140.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 46",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 143.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 47",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 146.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 48",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 150
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 49",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 153.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 50",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 156.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 51",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 159.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 52",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 162.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 53",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 165.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 54",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 168.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 55",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 171.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 56",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 175
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 57",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 178.125
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 58",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 181.25
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 59",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 184.375
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 60",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 187.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 61",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 190.625
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 62",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 193.75
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 63",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 196.875
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 64",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Straight 1",
+				"colorR": 0.9333333,
+				"colorG": 0.509804,
+				"colorB": 0.9333333,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Straight 2",
+				"colorR": 0.8666667,
+				"colorG": 0.627451,
+				"colorB": 0.8666667,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Straight 3",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 0,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Straight 4",
+				"colorR": 1,
+				"colorG": 0.5490196,
+				"colorB": 0,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Straight 5",
+				"colorR": 0.8039216,
+				"colorG": 0.3607843,
+				"colorB": 0.3607843,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Straight 6",
+				"colorR": 0.5647059,
+				"colorG": 0.9333333,
+				"colorB": 0.5647059,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 5.7,
+					"endTime": 13.7,
+					"totalTime": 8,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-Begin Gate",
+				"colorR": 1,
+				"colorG": 0.6470588,
+				"colorB": 0,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 0,
+					"endTime": 5.7,
+					"totalTime": 5.7,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 2",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 3",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 4",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 5",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 6",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 7",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 8",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 9",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 10",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 11",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 12",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 13",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 14",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 15",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 16",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1DCR-End Gate",
+				"colorR": 1,
+				"colorG": 0.6470588,
+				"colorB": 0,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track Batch",
+					"startTime": 0,
+					"endTime": 15,
+					"totalTime": 15,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode Batch 0",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 1",
+						"position": {
+							"x": 2.613126,
+							"y": 2.082392,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 2",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 3",
+						"position": {
+							"x": 1.082392,
+							"y": 3.613126,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 4",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 5",
+						"position": {
+							"x": -1.082392,
+							"y": 3.613126,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 6",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 7",
+						"position": {
+							"x": -2.613126,
+							"y": 2.082392,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 8",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 9",
+						"position": {
+							"x": -2.613126,
+							"y": -0.08239198,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 10",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 11",
+						"position": {
+							"x": -1.082392,
+							"y": -1.613126,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 12",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 13",
+						"position": {
+							"x": 1.082392,
+							"y": -1.613126,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 14",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 15",
+						"position": {
+							"x": 2.613126,
+							"y": -0.08239198,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode Batch 16",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 10,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1A-Pre",
+				"colorR": 1,
+				"colorG": 0.7137255,
+				"colorB": 0.7568628,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 5.7,
+					"totalTime": 5.7,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": -142.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "1B-Pre",
+				"colorR": 1,
+				"colorG": 0.7137255,
+				"colorB": 0.7568628,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 5.7,
+					"totalTime": 5.7,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": -142.5
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 0
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2A",
+				"colorR": 0.8,
+				"colorG": 0.4,
+				"colorB": 0.4,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 13.7,
+					"endTime": 21.7,
+					"totalTime": 8.000001,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": -2,
+							"y": -1,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [{
+					"name": "Note 0",
+					"judgeTime": 13.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 1",
+					"judgeTime": 14.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 2",
+					"judgeTime": 15.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 3",
+					"judgeTime": 15.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 4",
+					"judgeTime": 0,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 5",
+					"judgeTime": 15.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 6",
+					"judgeTime": 16.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 7",
+					"judgeTime": 17.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 8",
+					"judgeTime": 17.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 9",
+					"judgeTime": 17.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 10",
+					"judgeTime": 18.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 11",
+					"judgeTime": 18.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 12",
+					"judgeTime": 18.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 13",
+					"judgeTime": 18.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 14",
+					"judgeTime": 19.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 15",
+					"judgeTime": 19.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 16",
+					"judgeTime": 19.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 17",
+					"judgeTime": 20.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 18",
+					"judgeTime": 20.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 19",
+					"judgeTime": 20.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 20",
+					"judgeTime": 21.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 21",
+					"judgeTime": 21.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2B",
+				"colorR": 0.8,
+				"colorG": 0.4,
+				"colorB": 0.4,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 13.7,
+					"endTime": 21.7,
+					"totalTime": 8.000001,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 2,
+							"y": -1,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [{
+					"name": "Note 0",
+					"judgeTime": 14.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 1",
+					"judgeTime": 14.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 2",
+					"judgeTime": 14.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 3",
+					"judgeTime": 15.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 4",
+					"judgeTime": 15.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 5",
+					"judgeTime": 16.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 6",
+					"judgeTime": 17.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 7",
+					"judgeTime": 18.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 8",
+					"judgeTime": 19.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 9",
+					"judgeTime": 20.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 10",
+					"judgeTime": 20.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 11",
+					"judgeTime": 20.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 12",
+					"judgeTime": 21.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 13",
+					"judgeTime": 21.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2C",
+				"colorR": 0.8,
+				"colorG": 0.4,
+				"colorB": 0.4,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 13.7,
+					"endTime": 21.7,
+					"totalTime": 8.000001,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 0,
+							"y": -1.828427,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [{
+					"name": "Note 0",
+					"judgeTime": 13.7,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 1",
+					"judgeTime": 14.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 2",
+					"judgeTime": 14.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 3",
+					"judgeTime": 14.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 4",
+					"judgeTime": 15.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 5",
+					"judgeTime": 15.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 6",
+					"judgeTime": 15.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 7",
+					"judgeTime": 16.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 8",
+					"judgeTime": 16.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 9",
+					"judgeTime": 16.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 10",
+					"judgeTime": 17.2,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 11",
+					"judgeTime": 17.45,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 12",
+					"judgeTime": 17.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 13",
+					"judgeTime": 18.95,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 14",
+					"judgeTime": 20.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 15",
+					"judgeTime": 20.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 16",
+					"judgeTime": 20.825,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 17",
+					"judgeTime": 21.075,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 18",
+					"judgeTime": 21.325,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}, {
+					"name": "Note 19",
+					"judgeTime": 21.575,
+					"xPosition": 0,
+					"noteTpye": 1,
+					"dimension": 1,
+					"movementSaves": [],
+					"scaleSaves": []
+				}],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-Straight 1",
+				"colorR": 1,
+				"colorG": 0.8,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": -2,
+							"y": 3,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-Straight 2",
+				"colorR": 1,
+				"colorG": 0.8,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 2,
+							"y": 3,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-Straight 3",
+				"colorR": 1,
+				"colorG": 0.8,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 0,
+							"y": 3.828427,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-Straight 4",
+				"colorR": 1,
+				"colorG": 0.8,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": -2.828427,
+							"y": 1,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-Straight 5",
+				"colorR": 1,
+				"colorG": 0.8,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [{
+					"name": "Track 0",
+					"startTime": 0,
+					"endTime": 0,
+					"totalTime": 0,
+					"trackCurve": 0,
+					"spaceCurveType": 0,
+					"pathNodeSaves": [{
+						"name": "PathNode 0",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 200
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}, {
+						"name": "PathNode 1",
+						"position": {
+							"x": 2.828427,
+							"y": 1,
+							"z": 400
+						},
+						"normal": {
+							"x": 0,
+							"y": 1,
+							"z": 0
+						}
+					}],
+					"isClosed": false,
+					"normal": {
+						"x": 0,
+						"y": 0,
+						"z": 1
+					}
+				}],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB1A",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB1B",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB2A",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB2B",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB3A",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB3B",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB4A",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}, {
+				"name": "2DEC-WEB4B",
+				"colorR": 1,
+				"colorG": 1,
+				"colorB": 1,
+				"gameCameraSave": {
+					"name": null,
+					"cameraViewType": 0,
+					"fieldOfViewAngle": 0,
+					"isSave": false,
+					"swirlSaves": null
+				},
+				"trackSaves": [],
+				"noteSaves": [],
+				"trackHeadType": 0,
+				"movableLineTimeLength": 0.75,
+				"lineScale": {
+					"x": 0,
+					"y": 0,
+					"z": 0
+				},
+				"finalStartTime": 0,
+				"finalEndTime": 0,
+				"sacleSaves": []
+			}]
+		}
+	}
+}
